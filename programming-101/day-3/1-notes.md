@@ -11,3 +11,11 @@
 - The innermost blocks do not affect the outer ones
 - using and operator all statements must be true to be validated
 - using or operator becomes valid as soon as one statment is true
+
+# Loops
+- Loops run as long as the while statement is true
+- inputs can stop loops
+
+# Error Handling
+- Try used to test whatever is in code block
+- Except can be used to catch different types of errors.
