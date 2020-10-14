@@ -5,3 +5,9 @@
 ## Else and Else If
 - if and else start on same block level
 - elif and else will only be run if the if is not true.
+
+# Nesting code blocks
+- Putting code blocks inside of another item
+- The innermost blocks do not affect the outer ones
+- using and operator all statements must be true to be validated
+- using or operator becomes valid as soon as one statment is true
