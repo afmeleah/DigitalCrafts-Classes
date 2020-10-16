@@ -1,0 +1,5 @@
+name = input("WHAT IS YOUR NAME?\n")
+name.upper()
+length = len(name)
+print(f"HELLO, {name}!")
+print(f"YOUR NAME HAS {length} LETTERS IN IT! AWESOME!")
