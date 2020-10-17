@@ -7,4 +7,9 @@
 - git push changes remote depository (github)
 
 # Git ignore
+- stops folder or file from getting pushed up
+- important for protecting data
+- just name files and folders in the .gitignore that you don't want pushed
+
+# Git profiles
 - 
